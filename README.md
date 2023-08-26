@@ -1,2 +1,1 @@
-# uninformed-search-technique-prolog
-Details in readme file
+Given a list of positive integer Items whose elements are guaranteed to be in sorted ascending order, and a positive integer Goal, and Output  is a list of three elements [A,B,C] taken from items that together add up to goal. The Output must occur inside the items list in that order (ascending order).
